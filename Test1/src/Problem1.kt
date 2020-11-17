@@ -7,5 +7,5 @@ fun main() {
             sum += arr[i]
         }
     }
-    println(sum)
+    println("suma = " + sum)
 }
